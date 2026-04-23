@@ -1,0 +1,160 @@
+🎭 GÊNERO
+
+Fantasia / Ação / Ficção Sistêmica (Computacional)
+
+🌍 IDEIA CENTRAL
+
+O mundo é uma realidade viva onde conceitos de Sistemas Operacionais e Computação evoluíram para entidades conscientes.
+
+Memória, processos, endereços e falhas deixaram de ser abstrações e passaram a ser forças que moldam a existência.
+
+Os humanos agora vivem dentro de um sistema instável, onde precisam lutar, manipular e sobreviver a regras computacionais que definem a própria realidade.
+
+🌐 MUNDO / REGIÕES
+🧠 Ronri-tekina (Endereçamento Lógico)
+
+Uma metrópole de neon, dados e estruturas digitais visíveis.
+Aqui, tudo existe como informação e lógica pura.
+
+Fluxos de código no ar
+Estruturas geométricas instáveis
+Leis baseadas em abstração e endereçamento
+
+👉 Representa: o que o mundo “pensa” que é
+
+⚙️ Butsuri-tekina (Endereçamento Físico)
+
+Zona industrial massiva feita de hardware, engrenagens e matéria bruta.
+
+Estruturas pesadas e reais
+Energia instável e caótica
+Limitações físicas do sistema
+
+👉 Representa: o que o mundo realmente é
+
+🌫️ Kasō Memori City (Memória Virtual)
+
+Cidade flutuante instável, parcialmente real.
+
+Partes aparecem e desaparecem
+Estruturas são carregadas sob demanda
+Nada é permanente
+
+👉 Representa: memória sendo carregada e descarregada
+
+⚔️ ENTIDADES (SISTEMAS VIVOS)
+✔️ Conceitos Comuns
+Address Binding (ligação de endereços)
+Dynamic Loading (carregamento dinâmico)
+Ligação Dinâmica
+⚠️ Conceitos Avançados
+Alocação Contígua de Memória
+🔥 Conceito Épico
+Alocação com Partição Única
+☠️ Conceito Mítico
+Swapping
+🏴 GRUPOS
+Kiiro → ordem e estabilidade do sistema
+Kuro → força e controle estrutural
+Risu → suporte e exploração de dados
+Aka → corrupção e invasão do sistema (antagonistas)
+👤 PERSONAGENS
+🔵 Poty Silva (Protagonista)
+
+Especialista em Dynamic Loading
+
+Carrega habilidades apenas no momento necessário
+Otimiza energia como “RAM”
+🔴 Doragon Menezesu (Rival / aliado)
+
+Especialista em Swapping
+
+Troca posições instantaneamente com objetos ou inimigos
+Manipula deslocamento espacial do sistema
+🧠 Professor Kreator
+
+Figura central do sistema
+
+Interpretador do Código-Fonte do mundo
+Quase um “compilador vivo”
+Conectado ao Kernel da realidade
+☠️ INIMIGOS (ENTIDADES SO)
+Fragmentação → inimigos que se dividem em múltiplas instâncias instáveis
+Memory Leak (Vazamento de Memória) → drena energia do ambiente continuamente
+Deadlocks → entidades que travam ações e movimentos do sistema
+📖 CAPÍTULOS
+⚔️ CAPÍTULO 1 — O DESPERTAR DA MEMÓRIA
+
+O mundo vive sob a Grande Barreira de Dados.
+
+Poty Silva treina no grupo Kiiro sob orientação de Kreator.
+
+O grupo Aka inicia um ataque ao sistema corrompendo o Address Binding, causando falhas na existência.
+
+Durante o combate, Poty desperta o Dynamic Loading, invocando armas apenas no instante do impacto.
+
+Doragon aparece e demonstra o poder da Alocação Contígua, criando barreiras físicas absolutas.
+
+👉 Revelação: Aka busca o Endereço Físico Zero, origem da alma do sistema.
+
+⚔️ CAPÍTULO 2 — A FRONTEIRA ENTRE LÓGICA E MATÉRIA
+
+Poty e Doragon atravessam o barramento entre Ronri-tekina e Butsuri-tekina, convertendo seus corpos em dados.
+
+Eles enfrentam o guardião Épico: Alocação com Partição Única, que monopoliza todo o espaço existente.
+
+Com cooperação:
+
+Doragon ocupa o espaço fisicamente
+Poty conecta habilidades via Ligação Dinâmica
+
+👉 Resultado: ataque combinado impossível de processar pelo sistema.
+
+O grupo descobre que Aka iniciou a fragmentação da realidade (Paginação).
+
+⚔️ CAPÍTULO 3 — O CICLO DE SWAPPING
+
+No núcleo de Butsuri-tekina, Aka ativa o Swapping Mítico.
+
+Almas são removidas e armazenadas em um “Disco de Esquecimento”.
+
+Kreator sacrifica seu tempo de processamento (CPU) para estabilizar o sistema.
+
+Poty cria uma versão instável de si mesmo via Memória Virtual.
+
+O inimigo tenta trocar sua alma… mas acerta um Null Pointer.
+
+👉 Final: “SYSTEM RESET”
+
+O mundo reinicia parcialmente.
+
+⚙️ CAPÍTULO 4 — O PROTOCOLO DE PAGINAÇÃO INFINITA
+
+O sistema entra em colapso por excesso de dados.
+
+Problema:
+
+O mundo físico não tem mais espaço (RAM).
+
+Solução:
+
+Poty ativa a Memória Virtual (Kasō Memori).
+
+Tudo é dividido em “Páginas”
+O não usado vai para “Swap”
+A realidade passa a ser gerenciada
+Clímax:
+
+Doragon cria mapas de endereços lógicos enganosos.
+
+Poty causa Page Faults controlados para evitar ataques.
+
+👉 Resultado:
+O mundo inteiro é mantido como ilusão funcional dentro de hardware limitado.
+
+🧠 EPÍLOGO — O NOVO SISTEMA
+Poty → Gerenciador de Processos
+Doragon → Guardião da Tabela de Páginas
+Kreator → Integrado ao Kernel
+
+A realidade agora funciona como um sistema vivo controlado.

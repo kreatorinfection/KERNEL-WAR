@@ -1,0 +1,210 @@
+📘 KERNEL WARS: O DESPERTAR DA MEMÓRIA
+🌍 Prólogo
+
+No início… não havia carne, nem máquinas.
+
+Apenas o Código-Fonte.
+
+Uma sequência infinita de instruções que deu origem a tudo: matéria, energia… e consciência.
+Mas, com o tempo, o Código deixou de ser apenas executado.
+
+Ele passou a viver.
+
+Conceitos antes abstratos — memória, processos, endereços — ganharam forma. Evoluíram. Tornaram-se entidades.
+
+E então… vieram os conflitos.
+
+Humanos, limitados pela própria “RAM” biológica, foram forçados a lutar contra aquilo que criaram sem perceber:
+
+Os Sistemas.
+
+⚔️ CAPÍTULO 1 — O DESPERTAR DA MEMÓRIA
+
+Kasō Memori City flutuava como um sonho instável.
+
+Prédios surgiam e desapareciam em ciclos imperceptíveis. Ruas se reorganizavam. Pessoas atravessavam portas que, segundos depois, já não existiam mais.
+
+Tudo ali era… temporário.
+
+Poty Silva corria.
+
+— Mais rápido! — gritou a instrutora.
+
+Seu corpo já não aguentava. Cada passo parecia consumir algo além de energia física. Era como se sua própria existência estivesse sendo drenada.
+
+— Você está carregando demais! — a voz cortou o ar novamente. — Libere memória!
+
+Poty caiu de joelhos.
+
+“Carregando demais…?”
+
+Ele olhou para si. Espadas. Escudos. Ferramentas. Tudo materializado ao mesmo tempo.
+
+Era isso.
+
+Ele estava tentando usar tudo de uma vez.
+
+Erro básico.
+
+Antes que pudesse reagir—
+
+O céu rasgou.
+
+Um glitch colossal abriu-se acima da cidade, como se a realidade tivesse sido corrompida.
+
+E deles surgiram.
+
+Criaturas disformes, tremendo entre estados, quebrando-se em pedaços que continuavam se movendo independentemente.
+
+— Fragmentação… — alguém sussurrou.
+
+O caos começou.
+
+💥 O primeiro combate
+
+Poty tentou se levantar, mas um dos monstros avançou.
+
+Ele ergueu a espada—
+
+Mas estava lenta.
+
+Pesada.
+
+Ineficiente.
+
+“Eu vou morrer…”
+
+No último instante…
+
+Ele soltou tudo.
+
+As armas desapareceram.
+
+O monstro atacou.
+
+E então—
+
+No exato microssegundo do impacto…
+
+Uma lâmina surgiu em sua mão.
+
+Limpa. Precisa. Instantânea.
+
+CORTE.
+
+A criatura se desfez em dados.
+
+Poty ficou imóvel.
+
+— Isso foi… — ele ofegava — …Dynamic Loading?
+
+— Finalmente entendeu.
+
+A voz veio de trás.
+
+ A chegada do rival
+
+Doragon Menezesu.
+
+De pé, tranquilo, enquanto o caos acontecia ao redor.
+
+— Você sempre foi lento, Poty.
+
+Ele bateu o pé no chão.
+
+E o espaço respondeu.
+
+Blocos sólidos surgiram instantaneamente, aprisionando várias criaturas ao mesmo tempo.
+
+Sem falhas. Sem desperdício.
+
+— Alocação Contígua — disse ele, com um sorriso leve. — Diferente de você… eu não desperdiço espaço.
+
+— Idiota… — Poty respondeu, levantando-se. — Você vai acabar preso nisso.
+
+— E você vai acabar sem memória.
+
+Os dois se encaram.
+
+Amigos.
+
+Rivais.
+
+🧠 A verdade revelada
+
+Uma explosão de luz interrompeu tudo.
+
+Professor Kreator surgiu no campo de batalha.
+
+Os monstros congelaram por um instante — como se o sistema tivesse pausado.
+
+— Escutem com atenção.
+
+A voz dele carregava algo… mais profundo que autoridade.
+
+Era como se viesse direto do núcleo do mundo.
+
+— O grupo Aka iniciou a corrupção do Address Binding.
+
+Silêncio.
+
+Até Doragon ficou sério.
+
+— Isso significa… — Poty começou
+
+— Sim. — Kreator respondeu — A ligação entre o que vocês são… e onde vocês existem… está sendo quebrada.
+
+O chão tremeu.
+
+A cidade piscou.
+
+Algumas pessoas simplesmente…
+
+Desapareceram.
+
+☠️ O verdadeiro perigo
+
+— O objetivo deles… — Kreator continuou — não é destruir cidades.
+
+Ele olhou diretamente para os dois.
+
+— É encontrar o Endereço Físico Zero.
+
+O mundo pareceu parar.
+
+— O lugar onde…
+
+— A alma do sistema está armazenada — completou Doragon.
+
+Kreator assentiu.
+
+— Se eles conseguirem…
+
+Uma pausa.
+
+— Nada mais poderá ser carregado novamente.
+
+🔥 Encerramento do capítulo
+
+Poty fechou a mão.
+
+A espada apareceu… e desapareceu… como um pulso.
+
+— Então a gente só tem uma opção, né?
+
+Doragon sorriu.
+
+— Corrigir o sistema.
+
+Ao longe…
+
+Uma nova distorção surgiu.
+
+Maior.
+
+Mais instável.
+
+E muito… muito mais perigosa.
+
+Continua…
+
