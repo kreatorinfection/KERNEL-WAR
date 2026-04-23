@@ -158,3 +158,5 @@ Doragon → Guardião da Tabela de Páginas
 Kreator → Integrado ao Kernel
 
 A realidade agora funciona como um sistema vivo controlado.
+
+Ideia feita por Bryan Rossoni da Silva, porém melhorada gramaticalmente pela Inteligência artificial CHATGPT.
